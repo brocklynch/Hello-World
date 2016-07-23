@@ -1,2 +1,2 @@
 # Hello-World
-Just another repository 
+This is the trial set-up of Git Hub for Brock Lynch.
